@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2e6da4,100:4a9eda&text=👋+Salut,+moi+c'est+Lucas+Treiber-Lustig !&height=200&fontSize=40&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2e6da4,100:4a9eda&text=%F0%9F%91%8B+Salut,+moi+c'est+Lucas+Treiber-Lustig+!&height=200&fontSize=40&fontColor=ffffff" width="100%"/>
 
 Je suis un développeur passionné par les jeu vidéo et de la manière dont ils sont été créé. 
 Quand j'ai du temps libre j'aime faire des minis projet en rapport avec le jeu vidéo.
