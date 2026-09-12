@@ -1,10 +1,14 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:3d59a1&text=Bienvenue%20sur%20mon%20profil,%20moi%20c'est%20Lucas%20!&height=200&fontSize=40&fontColor=ffffff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/lucastreiber/lucastreiber/main/smilev3.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/lucastreiber/lucastreiber/main/Cloud.gif" width="400"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&text=Salut,%20moi%20c'est%20Lucas%20!&fontColor=ffffff&height=200&fontSize=40"/>
+<div align="center">
+  
+## Développeur passionné par les jeux vidéo et par la manière dont ils sont créés.
 
-### Développeur passionné par les jeux vidéo et leur création
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=Etudiant+en+informatique;Passionn%C3%A9+de+game+dev)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=Etudiant+en+informatique;Passionn%C3%A9+de+game+dev;Toujours+chaud+pour+une+partie;Fan+de+mangas+et+d%27anime)
 
 </div>
 
