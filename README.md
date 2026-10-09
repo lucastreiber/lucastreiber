@@ -20,7 +20,7 @@ Je suis un développeur passionné par les jeux vidéo et par la manière dont i
 
 Ce que je trouve le plus gratifiant, c'est de voir, après avoir codé une fonctionnalité pendant une heure, qu'elle fonctionne parfaitement et sans aucun bug.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=4" width="100%" alt="">
 
 ## 🛠 Stack & outils
 
@@ -40,18 +40,45 @@ Ce que je trouve le plus gratifiant, c'est de voir, après avoir codé une fonct
 
 **Petit plus :** `MIPS32` (assembleur) et `mcfunction` (Datapacks Minecraft).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=4" width="100%" alt="">
 
-## 📈 Projets
+## Projets
 
-| Projet | Description |
-|---|---|
-| 🎮&nbsp;[Jeu-unity-projet-bonus](https://github.com/lucastreiber/Jeu-unity-projet-bonus) | Un jeu réalisé avec Unity pour apprendre les bases du moteur. |
-| ⚔️&nbsp;[Super_armor_and_tool](https://github.com/lucastreiber/Super_armor_and_tool) | Un datapack Minecraft qui ajoute de meilleures armes, outils et armures. |
-| 🚀&nbsp;[Stargate-projet-IUT](https://github.com/MaxenceBatt/Stargate-projet-IUT) | Application de gestion de missions dans l'univers de Stargate, réalisée avec WinForms sur Visual Studio. |
-| 🛳️&nbsp;[Bataille-navale-MIPS](https://github.com/lucastreiber/Simulation-bataille-navale-MIPS32) | Bataille navale en assembleur MIPS avec traque récursive des bateaux |
+### [web-minigames](https://github.com/lucastreiber/web-minigames)
+
+Site web regroupant plusieurs mini-jeux jouables directement dans le navigateur, sans installation. Développé en JavaScript, HTML et CSS.
 
 ---
+
+### [Inscryption-card-game](https://github.com/rmax3iu/Inscryption-card-game)
+
+Jeu de cartes en Java inspiré du jeu vidéo Inscryption, réalisé en binôme sur 5 semaines. Le joueur affronte un adversaire en trois manches : il pose des cartes animaux sur le plateau, sacrifie des cartes pour en jouer de plus fortes et utilise leurs pouvoirs spéciaux. Le jeu se joue en ligne de commande et il est couvert par des tests unitaires JUnit.
+
+---
+
+### [Stargate-projet-IUT](https://github.com/MaxenceBatt/Stargate-projet-IUT)
+
+Application de gestion de missions dans l'univers de Stargate, réalisée en équipe dans le cadre de l'IUT. Elle propose une interface de bureau développée avec WinForms sous Visual Studio.
+
+---
+
+### [Bataille-navale-MIPS](https://github.com/lucastreiber/Simulation-bataille-navale-MIPS32)
+
+Bataille navale entièrement programmée en assembleur MIPS32. L'ordinateur traque les bateaux touchés grâce à un algorithme de recherche récursif.
+
+---
+
+### [Jeu-unity-projet-bonus](https://github.com/lucastreiber/Jeu-unity-projet-bonus)
+
+Jeu vidéo réalisé avec Unity pour découvrir et apprendre les bases du moteur : scènes, scripts, gestion des objets et shaders.
+
+---
+
+### [Super_armor_and_tool](https://github.com/lucastreiber/Super_armor_and_tool)
+
+Datapack Minecraft qui ajoute de nouvelles armes, outils et armures plus puissants au jeu, sans avoir besoin de mods.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=4" width="100%" alt="">
 
 ## 📊 Stats GitHub
 
@@ -63,7 +90,7 @@ Ce que je trouve le plus gratifiant, c'est de voir, après avoir codé une fonct
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucastreiber&theme=tokyonight"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=4" width="100%" alt="">
 
 ## 📫 Me contacter
 
