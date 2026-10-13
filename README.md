@@ -56,6 +56,12 @@ Site web regroupant plusieurs mini-jeux jouables directement dans le navigateur,
 
 ---
 
+### [apprentissage-godot](https://github.com/lucastreiber/apprentissage-godot)
+
+Un petit plateformer 2D fait sous Godot pour apprendre le moteur, avec un personnage jouable, des slimes ennemis, une passerelle mobile et un PNJ qui déclenche une cinématique scriptée.
+
+---
+
 ### [Inscryption-card-game](https://github.com/rmax3iu/Inscryption-card-game)
 
 Jeu de cartes en Java inspiré du jeu vidéo Inscryption, réalisé en binôme sur 5 semaines. Le joueur affronte un adversaire en trois manches : il pose des cartes animaux sur le plateau, sacrifie des cartes pour en jouer de plus fortes et utilise leurs pouvoirs spéciaux. Le jeu se joue en ligne de commande et il est couvert par des tests unitaires JUnit.
