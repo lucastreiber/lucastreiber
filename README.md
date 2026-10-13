@@ -44,6 +44,12 @@ Ce que je trouve le plus gratifiant, c'est de voir, après avoir codé une fonct
 
 ## Projets
 
+### [Cramptogame](https://github.com/AgentOutsiders/CramptoGame)
+
+Jeu éducatif qui fait vivre à quel point le milieu social d'un·e étudiant·e influence sa réussite et sa santé mentale lors de ses études. Développé avec Godot (GDScript).
+
+---
+
 ### [web-minigames](https://github.com/lucastreiber/web-minigames)
 
 Site web regroupant plusieurs mini-jeux jouables directement dans le navigateur, sans installation. Développé en JavaScript, HTML et CSS.
